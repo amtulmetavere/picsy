@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    </style>
+
+    <style name="CustomMaterialButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">#2b2561</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="cornerRadius">80dp</item>
+    </style>
+</resources>
